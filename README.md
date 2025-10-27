@@ -37,8 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
           
-[EX 5.1 Design Drawing.pdf](https://github.com/user-attachments/files/23168563/EX.5.1.Design.Drawing.pdf)
 
+[EX 5.2 Design Drawing.pdf](https://github.com/user-attachments/files/23168623/EX.5.2.Design.Drawing.pdf)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
